@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CRUD test with steps","This will create a new store","ERROR","2023-06-06T17:54:42.348+01:00[Europe/London]","0.0","0.06"
+"Store CRUD test with steps","Deleting product information and verify if the product is deleted","ERROR","2023-06-06T17:54:42.618+01:00[Europe/London]","0.0","0.03"

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CRUD test with steps","This will create a new store","ERROR","2023-06-06T17:54:42.348+01:00[Europe/London]","0.0","0.06"
+"Store CRUD test with steps","Verify If the Store was Added to the application","FAILURE","2023-06-06T17:54:42.414+01:00[Europe/London]","0.0","0.05"
+"Store CRUD test with steps","Update the Store information and Verify the Updated information","FAILURE","2023-06-06T17:54:42.580+01:00[Europe/London]","0.0","0.04"
+"Store CRUD test with steps","Deleting product information and verify if the product is deleted","ERROR","2023-06-06T17:54:42.618+01:00[Europe/London]","0.0","0.03"

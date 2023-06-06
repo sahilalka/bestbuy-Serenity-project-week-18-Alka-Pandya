@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product tags test","This test will verify if a status code of 200 is returned for GET request","SUCCESS","2023-06-06T17:54:40.212+01:00[Europe/London]","0.0","2.05"
+"Product tags test","This test will provide an error code of 400 when user tries to access an invalid resource","SUCCESS","2023-06-06T17:54:42.264+01:00[Europe/London]","0.0","0.02"
+"Store tags test","This test will verify if a status code of 200 is returned for GET request","SUCCESS","2023-06-06T17:54:42.714+01:00[Europe/London]","0.0","0.16"
+"Store tags test","This test will provide an error code of 400 when user tries to access an invalid resource","SUCCESS","2023-06-06T17:54:42.879+01:00[Europe/London]","0.0","0.04"
